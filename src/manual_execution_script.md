@@ -25,8 +25,8 @@ WHERE dr.POLICY_ID IN (
 - Aqui vas a ver que algunos STATE no seran COMPLETED, lo cual es el error o el problema que se tiene que solucionar.
 
 ### Solucion
-- Del siquiente script, se tiene que cambiar la lista de policies number por la que viene en el ticket, y luego ejecutar el script.
-[script](../db/20260303_Document_Tracking_Report_Clean_Up.sql)
+- Del siquiente script, se tiene que cambiar la lista de policies number por la que viene en el ticket, y luego ejecutar el siguiente script.
+- [script](../db/20260303_Document_Tracking_Report_Clean_Up.sql)
 
 ### Validar en la UI
 - Luego de ejecutar el script, se puede validar nuevamente en la UI, con el mismo proceso que se hizo antes, y se deberia ver que ahora la columna "Pending Illustration Request Date" esta vacia.

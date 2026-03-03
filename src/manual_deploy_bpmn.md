@@ -1,3 +1,5 @@
+<style>@import url('../styles.html');</style>
+
 [Regresar al índice](../readme.md)
 
 # Como deployar BPMN a PP sin pasar por el proceso normal de GitHub

@@ -1,9 +1,4 @@
-<style>
-  body {
-    background-color: #2c3e50; /* Color azul oscuro */
-    color: white;              /* Color del texto */
-  }
-</style>
+<style>@import url('./styles.html');</style>
 
 # Temas relacionado al proyecto de NORTHSTAR
 

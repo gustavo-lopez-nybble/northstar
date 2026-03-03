@@ -1,3 +1,5 @@
+<style>@import url('../styles.html');</style>
+
 [Regresar al índice](../readme.md)
 
 # Como ejecutar un script de updates relacionado a Document Tracking Report Clean Up

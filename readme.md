@@ -1,8 +1,3 @@
----
-layout: default
-title: Temas relacionado al proyecto de NORTHSTAR
----
-
 # Temas relacionado al proyecto de NORTHSTAR
 
 - [Como deployar BPMN a PP sin pasar por el proceso normal de GitHub](./src/manual_deploy_bpmn.md)

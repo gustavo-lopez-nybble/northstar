@@ -1,9 +1,3 @@
----
-layout: default
-title: Como deployar BPMN a PP sin pasar por el proceso normal de GitHub
----
-
-
 # Como deployar BPMN a PP sin pasar por el proceso normal de GitHub
 > Esto aplica solo a cambios unicamente a bpmn, si hay otros cambios, no se aplicaran o deployaran a PP
 

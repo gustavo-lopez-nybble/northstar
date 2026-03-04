@@ -1,4 +1,7 @@
-<style>@import url('./styles.html');</style>
+---
+layout: default
+title: Temas relacionado al proyecto de NORTHSTAR
+---
 
 # Temas relacionado al proyecto de NORTHSTAR
 

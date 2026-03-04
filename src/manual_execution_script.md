@@ -1,6 +1,7 @@
-<style>@import url('../styles.html');</style>
-
-[Regresar al índice](../readme.md)
+---
+layout: default
+title: Como ejecutar un script de updates relacionado a Document Tracking Report Clean Up
+---
 
 # Como ejecutar un script de updates relacionado a Document Tracking Report Clean Up
 > Estos casos son similar a ticket como este [LISO-3404](https://nybblegroup.atlassian.net/browse/LISO-3404) donde el cliente pide algo como "Kindly remove the pending tasks from the Document Tracking Report as the IFIs have already been received."

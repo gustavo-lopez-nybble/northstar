@@ -1,6 +1,7 @@
 ## Levantar el back
 
 - Parados en '/src'
+
 ```bash
 export JAVA_HOME="/c/Program Files/Java/jdk1.8.0_202"
 export PATH="$JAVA_HOME/bin:$PATH"
@@ -35,7 +36,7 @@ mvn clean install -DskipTests
 ```
 
 - Ahora levantar la app ( parado en slxapi/ )
+
 ```bash 
 mvn spring-boot:run
 ```
-

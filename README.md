@@ -3,7 +3,9 @@
 
 - [Como deployar BPMN a PP sin pasar por el proceso normal de GitHub](./src/manual_deploy_bpmn.md)
 
-- [Ejecutar un script de updates relacionado a Document Tracking Report Clean Up](./src/manual_execution_script.md)
+- [Ejecutar un script de updates relacionado a Document Tracking Report Clean Up](./src/document_tracking_report_clean_up.md)
+
+- [Actualizar Delivery Source](./src/actualizar_delivery_source.md)
 
 ## Proyecto de Soporte ( viejo )
 
